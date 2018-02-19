@@ -14,5 +14,8 @@ pids
 # Dependency directories
 node_modules
 
+# Custom
+dist
+
 # Optional npm cache directory
 .npm
