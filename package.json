@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/js/index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack -p"
+  },
+  "author": "Wessam",
+  "license": "ISC"
+}
